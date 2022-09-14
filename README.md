@@ -1,5 +1,5 @@
 # subkar
-- subkar A program written in Python to do broutforce attack on the target domains to get subdomains with wordlist have 10k populer subdomains word 
+- subkar A program written in Python to do brute force attack on the target domains to get subdomains with wordlist have 10k popular subdomains word 
 - subkar easy and strong tool
 
 
